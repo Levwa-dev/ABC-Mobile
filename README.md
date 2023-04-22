@@ -1,5 +1,7 @@
 # iq-test
 
+It is my first mproject with Vue. In general, I was programming on React before this. But this is proof that I can quickly master new technologies and do not back down in the face of difficulties.
+
 ## Project setup
 ```
 npm install
